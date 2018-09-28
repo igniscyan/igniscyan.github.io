@@ -4,13 +4,11 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Brandon Clark. Here's some facts about me in case I come up during trivia night. (Don't you dare steal my identity.)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I'm an Undergrad in Computer Science
+- I'm interested in being a Full Stack developer, but am happy so long as I'm working in front of an editor and learning.
+- Languages (and APIs) I've worked with thus far include: Python, Rust, Java, JS, Node.JS, C++, Swift, and QT. 
 
-What else do you need?
+If you're an employer looking for my spec list, you can find a copy of my resume **here**. 
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
