@@ -26,7 +26,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Resume: "https://drive.google.com/file/d/1PlgQ3-SpXs_5cDi-mfSvE8K8-tuLKbrj/view?usp=sharing"
-    - GitHub: "www.github.com/igniscyan"
+    - GitHub: "https://github.com/igniscyan"
     - LinkedIn: "https://pages.github.com/"
   Author's home: "http://deanattali.com"
 
